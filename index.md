@@ -8,13 +8,13 @@
 ------------
 
 #### 프로필  
-- _[경력, 진행했던 프로젝트](./profile.md)_  
+- [경력, 진행했던 프로젝트](./profile.md)  
 
 ------------
 
 #### 현재 진행 중인 프로젝트  
 
-#### _[컨트리뷰톤 2018](https://github.com/onycom-ankus/contributhon2018/tree/master/Team_A)_ 
+#### [컨트리뷰톤 2018](https://github.com/onycom-ankus/contributhon2018/tree/master/Team_A) 
 -----------     
 
 - Kosslab 2018 공개SW 컨트리뷰톤
