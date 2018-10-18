@@ -3,7 +3,7 @@
    
 #### 책과 커피를 즐기는 프로그래머(간혹 컨설턴트 이기도 함)  
 #### 관심분야
-   - IoT, 데이터 분석, 공개SW, 정보 수집(신기술, 트렌드)  
+   - IoT, 데이터 분석, 공개SW, 정보 수집(신기술, 트렌드)   
    - 딥러닝/빅데이터 분석(은 이제 공부 중)  
    
 #### 좀 하는 분야  
@@ -34,11 +34,11 @@
 ------------
 
 
-#### 현재 진행 중인 프로젝트 또는 작업  
+#### 현황  
 #### 1. [공개SW 컨트리뷰톤 2018](https://contributhon.kr/)  
   - 주최 : [공개SW개발자Lab](https://kosslab.kr/) (Kosslab, NIPA 산하)
   - 2018/08/16 ~ 2018/10/29
-  - Ankus-Lite for web data analysis 팀 프로젝트 참여
+  - Ankus-Lite for web data analysis 팀 프로젝트 참여 중(현재)  
   - SNS나 Web에서 수집된 이미지로 HOT 에 대한 분석 
   - 인스타그램 이미지 크롤링, 수집된 이미지 데이터에 대한 딥러닝 분석, 분석된 결과의 시각화
   - [진행 상황](https://github.com/onycom-ankus/contributhon2018/tree/master/Team_A)
@@ -47,7 +47,7 @@
   - [서울창업허브](http://seoulstartuphub.com/) 
     - 집과 가까운 코워킹 스페이스이고, 새책들이 즐비한 도서관도 있음
   - [양재R&CD혁신센터](http://yangjaehub.com/) 
-    - 모두의연구소가 운영하는 곳, AI 스타트업만 입주해 있고, AI 교육이 진행되고 있어서 만남의 장으로 제격임
+    - 모두의연구소가 운영하는 곳, AI 스타트업만 입주해 있고, AI 교육이 진행되고 있어서 만남의 장으로 활용 중
   - [공개SW센터](https://kosslab.kr/) 
     - 공개소프트웨어 세미나 참여, 강남에서 시간을 보내야 할 경우 사용, IT 서적 다수 비치되어 있음
   - [금호아트홀](http://www.kumhoarthall.com/)
