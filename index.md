@@ -25,8 +25,8 @@
   - [진행 상황](https://github.com/onycom-ankus/contributhon2018/tree/master/Team_A)
 
 #### 2. 자주 다니는 곳  
-  - [서울창업허브](http://seoulstartuphub.com/) - 집과 가까운 코워킹 스페이스이고 남들 안빌려간 새책을 빌려주는 도서관도 있음
-  - [양재R&CD혁신센터](http://yangjaehub.com/) - 모두의연구소가 있는 곳, AI 스타트업만 입주하고 있고 AI 교육이 진행되고 있어서 만남의 장...
+  - [서울창업허브](http://seoulstartuphub.com/) - 집과 가까운 코워킹 스페이스이고, 새책들이 즐비한 도서관도 있음
+  - [양재R&CD혁신센터](http://yangjaehub.com/) - 모두의연구소가 운영하는 곳, AI 스타트업만 입주하고 있고 AI 교육이 진행되고 있어서 만남의 장...
   - [공개SW센터](https://kosslab.kr/) - 공개소프트웨어 세미나 참여, 강남에서 시간을 보내야 할 경우 사용, IT 서적 다수 비치되어 있음
 
 ------------
