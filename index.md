@@ -13,10 +13,7 @@
 ------------
 
 #### 현재 진행 중인 프로젝트  
-
-#### [컨트리뷰톤 2018](https://github.com/onycom-ankus/contributhon2018/tree/master/Team_A) 
------------     
-
+#### [컨트리뷰톤 2018](https://github.com/onycom-ankus/contributhon2018/tree/master/Team_A)     
 - Kosslab 2018 공개SW 컨트리뷰톤
   - 공개SW개발자Lab (NIPA 산하)에서 주관하는 공개SW 컨트리뷰톤 참여 중
   - 2018/08/16 ~ 2018/10/29
