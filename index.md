@@ -7,15 +7,17 @@
 
 ------------
 
-#### [프로필](./profile.md)  
-- 경력, 진행했던 프로젝트  
+#### 프로필  
+- _[경력, 진행했던 프로젝트](./profile.md)_  
+
 ------------
 
 #### 현재 진행 중인 프로젝트  
 
-#### [컨트리뷰톤 2018](https://github.com/onycom-ankus/contributhon2018/tree/master/Team_A)  
+#### _[컨트리뷰톤 2018](https://github.com/onycom-ankus/contributhon2018/tree/master/Team_A)_ 
+-----------     
 
-- Kosslab 공개SW 컨트리뷰톤
+- Kosslab 2018 공개SW 컨트리뷰톤
   - 공개SW개발자Lab (NIPA 산하)에서 주관하는 공개SW 컨트리뷰톤 참여 중
   - 2018/08/16 ~ 2018/10/29
   - Ankus-Lite for web data analysis 팀 프로젝트 참여 (진행 중)
