@@ -50,18 +50,9 @@
   - 인스타그램 이미지 크롤링, 수집된 이미지 데이터에 대한 딥러닝 분석, 분석된 결과의 시각화
   - [진행 상황](https://github.com/onycom-ankus/contributhon2018/tree/master/Team_A)
 
-#### 2. 자주 다니는 곳  
-  - [서울창업허브](http://seoulstartuphub.com/) 
-    - 집과 가까운 코워킹 스페이스이고, 새책들이 즐비한 도서관도 있음(책을 모두 사서 보는지... 깨끗함)  
-  - [양재R&CD혁신센터](http://yangjaehub.com/) 
-    - 모두의연구소가 운영하는 곳, AI 스타트업만 입주해 있고, AI 교육이 진행되고 있어서 만남의 장으로 활용 중
-  - [공개SW센터](https://kosslab.kr/) 
-    - 공개소프트웨어 세미나 참여, 강남에서 시간을 보내야 할 경우 사용, IT 서적 다수 비치되어 있음
-  - [금호아트홀](http://www.kumhoarthall.com/)
-    - 청년 연주자를 많이 만날 수 있어서 가끔 가고 있음
-    - 독주회 위주
-  - [서울시청도서관](http://lib.seoul.go.kr/)
-    - 기술서적 빌리러 다님(서울시 소재자, 서울시 업체 재직자 도서 대출 가능)
-
 ------------
+
+#### 참고자료 목록
+- [『파이썬을 이용한 웹 크롤링과 스크레이핑』의 예제 파일](/Python_crawling/README.md)
+- [이미지 딥러닝 참고자료](/Image_analysis/README.md)
 
