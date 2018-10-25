@@ -1,0 +1,83 @@
+1.	오준호 KAIST 교수 “한국의 DRC 우승과 시사점” 
+-	KAIST Hubolab에서 2012년 Rainbow 주식회사 창업 
+-	현재 휴보시리즈는 Rainbow 사에서 진행되고 있는 프로젝트임 
+-	Hubo는 
+: 모터냉각을 위해 기존 수냉식에서 공냉식으로 냉각플로우를 계산하여 설계, 현장 대응력을 높힘 (어디나 움직임이 있는 부분에서는 수냉식에는 기구적 트러블이 생김) 
+: FT(Force/Torque)센서, 자이로센서를 모듈로 사서 쓴 것이 아니라 칩을 구매하여 직접 로봇에 적합하게 모듈을 설계하여 장착하였음 
+: PODO Framework을 개발하여 Real-time처리를 강화하였음 
+(데이터의 처리는 Shared Memory 방식을 채택하였음) 
+: LIDAR로 3D 모양과 거리를 측정하고 Vision으로 판별하였음 
+: Navigation은 User가 지시하고 그에 따른 상황 별 시나리오를 스스로 선택하여 움직이도록 구현하였음 
+: Robust Mechanism에 많은 신경을 써서 설계하고, 테스트 해왔음 
+: 많은 리허설(태풍에 따른 바람의 영향에 대한 테스트등)을 통해 개선해왔음 
+-	휴보가 DRC에서 우승한 전략적 이유는 
+①	Robust Robot Platform 
+: Robust mechanism 
+No external cables, Stiff mechanical structure, Modular design) 
+: Smart Power 
+Stable power for PC, communication, etc. via Super-capacitor 
+Soft start-up circuits 
+: Effective heat dissipation 
+: Reliable internal communication (Isolator, 4ch-1Mbps CAN) 
+: Robust motor driver 
+②	Reliable vision / LIDAR system 
+③	Balance between Supervisory and Autonomy 
+④	Real time OS and framework for multi-agent system 
+⑤	Stable and reliable mobility 
+⑥	Compliance control 
+⑦	Realistic and comprehensive rehearsal 
+⑧	Leadership and team-work 
+
+2.	박현섭 PD(KEIT) “DRC를 통해서본 DARPA 기술현황” 
+-	휴머노이드로 DARPA가 진행한 이유는 현장이 사람이 작업하기 때문에 사람에게 적합한 공간, 툴로 이루어져있는 관계로 인체와 유사한 형태가 적합하다고 판단했기때문 
+-	한국 산업부와 미국 DoD간의 협력과제를 진행하기로 M.O.U.를 체결하였음 
+: 운영위원으로 미국 DoD의 로봇정책위원 3인중 2인이 한국인임 
+: David Han(DoD), Dai H. Kim(DoD), Daniel Lee(UPenn) 
+이석한(성균관대), 박상덕(KITECH), 박현섭(KEIT) 
+: 1차 소규모과제 진행(과제당 2~3억원선, 5개정도의 과제 선정 예정) 
+: 일정 
+2015.07.24. : 참여의사 및 제안서 접수 
+2015.08.15 : 참석자 및 제안서 선정 
+2015.10.31 ~ 11.2 : workshop 예정 
+2015.11월말 : 연구대상 과제 선정 
+-	George Heilmeier의 R&D 지침 
+①	What are you trying to do? 
+②	How is it done today, and what are the limits of current practice? 
+③	What’s new in your approach, and why do you think it will be successful? 
+④	Who cares? 
+⑤	If you’re successful what difference will it make? 
+⑥	What are the risks and payoffs? 
+⑦	How much will it cost? 
+⑧	How long will it take? 
+⑨	What are the midterm and final “exams” to check for success? 
+-	DARPA는 위의 9가지 원칙에 준하여 간단한 계획서를 기준으로 수백억이 소요되는 과제를 진행한다. 
+-	우리나라는 과제 계획서에 정부지원 필요성, 활용분야 등등 100여 페이지가 되지만 꼼꼼히 따져보면 그리 내용이 없는 편이다. 이를 개선해야만 앞선 기술개발이 가능할 것이다. 
+
+3.	한재권 로보티즈 “재난대응 로봇의 상용화 사례” 
+-	이번 대회는 2~5도 정도의 경사로 2위를 차지한 아틀라스를 제외하고는 Top-5가 모두 바퀴나 캐터필터로 이동하는 로봇이였다. 
+-	이번 대회에서 로보티즈 플랫폼을 사용하는 곳이 독일, 미국 UCLA, 서울대, 로보티즈였으며, 그외 로보티즈 모터를 사용한 로봇들도 많이 있었다. 
+-	로보티즈의 플랫폼이 미완이라 전세계에서 오는 계약문의를 거절하고 있으며, 현재 똘망의 상용화를 주력하고 있다. 
+-	군사용 부상병 이송 로봇인 BEAR(Battlefield Extraction-Assist Robot)을 개발한 Vecna Robotics사는 그 기술을 바탕으로 현재 물류로봇을 주력사업으로 하고 있다. 
+-	일본에서는 미국처럼 군사용을 Rescue용이라고 부르는 것에 비해 실제적인 구조를 목적으로한 Rescue 로봇이 개발되고 있다. 특히, 도쿄 소방청에서 전체적인 소방 구조로봇에 자금을 투여하고 있다. 
+-	PARS (RTS ideas, 이란) : 구명장비 이송 로봇(드론형태) 
+-	Sky ranger (Aeryon lab inc.) : 탐사용 드론 
+-	Roboticists without Borders (http://crasar.org/roboticists-without-borders/) : 국경없는 로보틱스, 재난 발생시 자신이 보유한 로봇으로 구조활동을 하고자 하는 모임 
+
+4.	박용운 ADD 센터장 “민군협력 재난대응 로봇 사례” 
+-	미국 FCS 사업 추진 (2002-2011) 
+: 유인체계 + 무인체계 + 병사, 체계 통합 개발(여단단위 신설) 이 목적이였으나, 
+서브프라임과 기술적난제로 인해 개발프로젝트가 중지된 상황임 
+-	미국은 기존 전차를 자율키트 부착으로 무인화도 중요시 하고 있다. 기존 전차의 활용성을 높이기 위함 
+-	한국 국방부에서는 2014년 5월 자율주행 Level 6를 달성하여 배치를 준비중에 있다고 함 
+-	국방로봇의 종류 : 차량형 로봇, 병사착용로봇, 인간형로봇, 생채모방로봇 
+-	2013년 대통령의 요청으로 초견로봇에 주력하여 개발하였고, 공군에서 비행장 경계용 로봇을 배치하겠다고 결정하여 초견용 견마 로봇 배치를 준비 중에 있다. 
+-	현재 1인이 8대까지의 견마로봇을 제어하는데 향후에는 집단 개념의 다중 로봇군, 개개의 로봇들, 집단명령등의 집단 전략시뮬레이션과 같은 형태로 추진 중에 있다. 
+
+5.	서진호 KIRO 본부장 “재난대응 로봇관련 국민 안전로봇 프로젝트 소개” 
+-	국민의 안전을 위한 한 방법으로 로봇을 활용하고자 한다. 
+-	소방관의 전수조사로 정리하여 현실 구현 가능한 것을 채택하여 진행하려고 한다. 
+①	비행환경 극복형 및 분리합체형 자생이동 Scout Robot 
+②	인명구조 및 자율회귀 가능 Rescue Robot 
+③	공간확보 및 작업지원용 Fire Robot 
+
+이 중에서 2번은 아직 구현이 시기상조라는 판단에 1번과 3번에 대한 개발과제 추진과 각 지원 부품군에 대한 개발과제를 진행하고자 한다. 
