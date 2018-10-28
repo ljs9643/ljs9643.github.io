@@ -5,4 +5,4 @@
 
 - [Gradient Descent Optimization Algorithms 정-shuuki4님 깃허브](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
 
-
+- [People in Computer Vision](./image_paper.md)
