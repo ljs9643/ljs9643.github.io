@@ -47,7 +47,7 @@
 ------------
 
 
-#### 현황  
+#### 현재 진행   
 #### 1. [공개SW 컨트리뷰톤 2018](https://contributhon.kr/)  
   - 주최 : [공개SW개발자Lab](https://kosslab.kr/) (Kosslab, NIPA 산하)
   - 2018/08/16 ~ 2018/10/29
