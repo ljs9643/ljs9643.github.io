@@ -62,12 +62,12 @@
 
 ------------
 
-#### 참고자료 목록
-- [『파이썬을 이용한 웹 크롤링과 스크레이핑』의 예제 파일](/Python_crawling/README.md)  
+#### 참고자료 목록  
 - [이미지 딥러닝 참고자료](/Image_analysis/README.md)  
 - [자연어처리 관련](./Natural_Language_Process.md) - [@Kyubyong님 자료](https://github.com/Kyubyong)  
 - [자동차 SW관련](/CAR/README.md)  
 - [Industry 4.0 관련](/INDUSTRY4/README.md)  
-- [알고리즘 중심의 머신러닝 가이드](/MLGuide/)
-- [엔지니어를 위한 파이썬](/scTechPython/)
-- [사물인터넷을 품은 라즈베리 파이](/RaspberryPiWithIOT/)
+- [Book - 파이썬을 이용한 웹 크롤링과 스크레이핑](/Python_crawling/README.md)  
+- [Book - 알고리즘 중심의 머신러닝 가이드](/MLGuide/)  
+- [Book - 엔지니어를 위한 파이썬](/scTechPython/)  
+- [Book - 사물인터넷을 품은 라즈베리 파이](/RaspberryPiWithIOT/)  
