@@ -70,8 +70,8 @@
 - [Book - 파이썬을 이용한 웹 크롤링과 스크레이핑](/Python_crawling/README.md)  
 - [Book - 알고리즘 중심의 머신러닝 가이드](/MLGuide/)  
 - [Book - 엔지니어를 위한 파이썬](/scTechPython/)  
-- [Book - 사물인터넷을 품은 라즈베리 파이](/RaspberryPiWithIOT/README.md)  
-- [Book - 골빈해커의 3분 딥러닝](/TensorFlow-Tutorials/README.md)  
-- [Book - 텐서플로로 시작하는 딥러닝](/TensorflowDeeplearning/README.md)  
+- [Book - 사물인터넷을 품은 라즈베리 파이](/RaspberryPiWithIOT/)  
+- [Book - 골빈해커의 3분 딥러닝](/TensorFlow-Tutorials/)  
+- [Book - 텐서플로로 시작하는 딥러닝](/TensorflowDeeplearning/)  
 
 
