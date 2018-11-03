@@ -68,4 +68,6 @@
 - [자연어처리 관련](./Natural_Language_Process.md) - [@Kyubyong님 자료](https://github.com/Kyubyong)  
 - [자동차 SW관련](/CAR/README.md)  
 - [Industry 4.0 관련](/INDUSTRY4/README.md)  
-
+- [알고리즘 중심의 머신러닝 가이드](/MLGuide/)
+- [엔지니어를 위한 파이썬](/scTechPython/)
+- [사물인터넷을 품은 라즈베리 파이](/RaspberryPiWithIOT/)
