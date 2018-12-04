@@ -64,13 +64,22 @@
 #### 1. [공개SW 컨트리뷰톤 2018](https://contributhon.kr/)  
   - 주최 : [공개SW개발자Lab](https://kosslab.kr/) (Kosslab, NIPA 산하)
   - 2018/08/16 ~ 2018/10/29
-  - Ankus-Lite for web data analysis 팀 프로젝트 참여 중(현재)  
+  - Ankus-Lite for web data analysis 팀 프로젝트 참여 (수료, NIPA 수료증) 
   - SNS나 Web에서 수집된 이미지로 HOT 에 대한 분석 
   - 인스타그램 이미지 크롤링, 수집된 이미지 데이터에 대한 딥러닝 분석, 분석된 결과의 시각화
   - [진행 상황](https://github.com/onycom-ankus/contributhon2018/tree/master/Team_A)
 
 #### 2. 배터리 제어관련 프로젝트 협의 중(배터리 관리 시스템)    
-
+  - 일본 모 회사용 배터리 관리 시스템 개발 중
+  - Renesas사 IC
+  
+#### 3. 폐시추공 추락자 구조 장치 
+  - 원유 폐시추공에 추락하 아이들에 대한 구조 또는 사체인양을 위한 장치 개발
+  - SW개발 완료(2018/12/04)
+  - 본 계약이 진행될 경우 
+    50m에서 200m까지 가능하도록 이더넷을 기반으로 한 시스템 구성 필요
+    영상과 오디오도 모두 데이터로 처리할 필요가 있음
+    
 
 ------------
 
