@@ -68,7 +68,7 @@
     - Ankus-Lite for web data analysis 팀 프로젝트 참여 (수료, NIPA 수료증) 
     - SNS나 Web에서 수집된 이미지로 HOT 에 대한 분석 
     - 인스타그램 이미지 크롤링, 수집된 이미지 데이터에 대한 딥러닝 분석, 분석된 결과의 시각화
-    - [진행 내역 및 ](https://github.com/onycom-ankus/contributhon2018/tree/master/Team_A)
+    - [진행 내역 및 결과](https://github.com/onycom-ankus/contributhon2018/tree/master/Team_A)
     
    ------------- 
 - 2017년
