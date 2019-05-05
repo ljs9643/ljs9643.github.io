@@ -70,6 +70,11 @@
     
    ------------- 
 - 2017년
+  - Digital Transformation International Conference 주최 - (사)ICT융합네트워크협회
+    - 외부전문가로 참여
+    - 9월 17일, 유료 컨퍼런스
+    - [참가신청](https://onoffmix.com/event/108873)
+    - [포스터](/Document/DigitalTransformationConference2017.jpg)    
 
   - 에어컨용 제어기 개발 - 납품
     - 보조배터리를 이용한 차량용 에어컨 제어기 개발
