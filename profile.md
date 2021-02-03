@@ -1,4 +1,4 @@
-#### [Home](./index.md)
+## [Home](./index.md)
 
 #### 참여 이력 
 
