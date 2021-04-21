@@ -78,7 +78,7 @@
   - X-ray 용 배터리 BMS 시스템 개발 용역
     - 일본 후지필름
     - 2018/12 ~ 2019/11
-    - Renesas RAJ2400045 IC를 이용한 BMS Software 구현
+    - Renesas RAJ240045 IC를 이용한 BMS Software 구현
     
   ------------- 
       
