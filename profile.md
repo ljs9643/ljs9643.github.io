@@ -1,5 +1,5 @@
 #### 참여 이력 
-   [지엘큐 홈페이지](https://glqkorea.com)
+   [지엘큐 홈페이지](https://glqkorea.github.io)
 
 - 현재
   - (주)지엘큐 대표 (2013 ~ 현재)
@@ -314,4 +314,4 @@
 -------------
 
 ### [현황으로](./index.md)
-[지엘큐 홈페이지](https://glqkorea.com)
+[지엘큐 홈페이지](https://glqkorea.github.io)
