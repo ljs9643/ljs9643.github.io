@@ -1,2 +1,0 @@
-# rest
-rest schedule example
