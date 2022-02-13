@@ -25,6 +25,16 @@
   </head>
   <body>
 
+      <header>
+        <h1> </h1>
+        <p></p>
+      </header>
+
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <section>
 <p> </p>
 
 
