@@ -252,7 +252,7 @@
     - 아파트 욕실내 난방과 환기 기능을 모두 갖춘 복합팬 제어장치 개발
   
   - 미국 가정용 오디오 공유 시스템 개발
-    - [NetStreams Musica](http://www.clearone.com/residential_musica) (미국) 개발 용역 수행
+    - [NetStreams Musica](http://www.clearone.com) (미국) 개발 용역 수행
     - 2003/10 ~ 2004/8
     - 거실에 비치된 CD플레이 내장형 오디오 시스템을 각 방에서 선택된 음악을 들을 수 있도록 구성하는 스마트홈 오디오 시스템 제어기 개발
     
