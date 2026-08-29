@@ -51,6 +51,31 @@
       - AI PL 수행 중
       - H200 기반 데이터분석실용 개발환경 구축
       - 당사 WhaleShark와 오픈소스 라벨링 도구인 LabelO를 융합한 데이터 분석과 라벨링 서비스 제공
+   
+  - 개인 개발  
+      - LableO API  
+        - LabelO (Label-Stuio 스핀오프 라벨링 툴) 연동 API 개발  
+        - 로그인, 프로젝트 생성/제거/관리(import, export), 사용자 등록/관리 등  
+        - https://github.com/ljs9643/labelo_API  
+            
+      - mynotebook_rag  
+        - ollama 기반 LLM을 이용한 업로드한 문서 기반 추론서비스 개발  
+        - 문서에 기재된 내용만으로 추론하도록 구성  
+        - https://github.com/ljs9643/_mynotebook_rag
+
+      - mlx-llm-studio   
+        - MLX-LM, MLX-VLM 기반 LLM 모델을 이용한 질의 서비스 개발  
+        - 맥북프로 M5 32G-RAM 기반 온프라미스로 구춖  
+        - 모델 선택 가능, 웹검색 가능(최대 10개까지로 제한)  
+        - 업로드한 문서 기반 분석 가능 (프롬프트로 제한)  
+        - 현재 돌리는 모델 :  
+
+      - CCTV 거주자 이상탐지 솔루션  
+        - YOLO8/11/26 기반 서비스 구축
+        - H100, 맥북 M5, LG그램 동작 확인(VRAM 450M 차지)  
+        - CCTV, 동영상 분석 가능  
+        - 쓰러짐, 싸움에 대한 별도 알고리즘 보완을 통한 고도화 수행  
+        - YOLO 모델과 YOLO-POSE 모델을 사용하고 추가 상황에 대한 알고리즘 추가해서 적용   
 
 - 2025년
   - 글로벌 기업 협업 프로그램 - AIoT 연계형 DataFabric 형 DaaS (오라클 지원)  
