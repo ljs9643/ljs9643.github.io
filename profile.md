@@ -42,6 +42,10 @@
   - 2024년 [패널참여] [K-하이테크플랫폼X모두의연구소][비즈세미나] 생성형 AI의 비즈니스 도입  (https://festa.io/events/6411)   
       - 연사 : 테디노트 이경록, 패널 : 한화시스템 김유신 상무, 인이지 장윤석 이사, 데이센트릭 이재수 이사
       - [행사 사진](https://www.linkedin.com/posts/lilianawon_riwrdkstusmyqvosqs-tqurhyqpktxu-snzspfunxai-activity-7267130190856675328-8OZJ)
+  - 2026년
+      - [교육수료] 6G AI Native의 미래, Agentic AI 세미나 (TTA)  
+      - [교육수료] 디지털 의료기기 인허가 트렌드 및 표준 세미나 (TTA)  
+      - [교육수료] 6G 초연결의 미래, NTN 세미나 (TTA)  
 
 -------------
 
@@ -51,6 +55,8 @@
       - AI PL 수행 중
       - H200 기반 데이터분석실용 개발환경 구축
       - 당사 WhaleShark와 오픈소스 라벨링 도구인 LabelO를 융합한 데이터 분석과 라벨링 서비스 제공
+      - H100, YOLO11 기반 CCTV 거주자 이상탐지 솔루션 시연  
+      - H100, Gemma4 모델을 이용한 제공 문서 기반 분석 솔루션 시연  
    
   - 개인 개발  
       - LableO API  
